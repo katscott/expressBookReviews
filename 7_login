@@ -1,0 +1,2 @@
+$ curl --request POST 'localhost:5000/login' --json '{"username":"johndoe","password":"secret123"}' -c cookies.txt
+User successfully logged in%   
